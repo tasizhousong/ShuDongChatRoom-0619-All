@@ -1,0 +1,233 @@
+﻿<Window x:Class="Register.Friendlist"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:local="clr-namespace:Register"
+        mc:Ignorable="d"
+        Title="Friendlist"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Height="600"
+        Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*" />
+            <RowDefinition Height="70*" />
+            <RowDefinition Height="25*" />
+            <RowDefinition Height="25*" />
+            <RowDefinition Height="363*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <materialDesign:ColorZone Mode="PrimaryMid"
+                                      Name="NavBar"
+                                      Height="30"
+                                      MouseLeftButtonDown="NavBar_MouseLeftButtonDown"
+                                      materialDesign:ShadowAssist.ShadowDepth="Depth3" Background="#FF299FF7">
+                <Grid>
+
+                    <Grid HorizontalAlignment="Center"
+                          Width="200">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+
+                        </Grid>
+
+                    </Grid>
+                    <Grid HorizontalAlignment="Right"
+                          Width="60">
+                        <Grid.ColumnDefinitions>
+
+
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+
+                        <Grid Grid.Column="0">
+                            <Button Height="25"
+                                    Background="{x:Null}"
+                                    BorderBrush="{x:Null}"
+                                    materialDesign:ShadowAssist.ShadowDepth="Depth1"
+                                    Padding="0">
+                                <Viewbox Width="25"
+                                         Height="25">
+                                    <Canvas Width="24"
+                                            Height="24">
+                                        <Path Data="M20,14H4V10H20"
+                                              Fill="White" />
+                                    </Canvas>
+                                </Viewbox>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <Button Height="25"
+                                    Background="{x:Null}"
+                                    BorderBrush="{x:Null}"
+                                    materialDesign:ShadowAssist.ShadowDepth="Depth1"
+                                    Command="{Binding FriendlistCloseCommand}"
+                                    Padding="0">
+                                <Viewbox Width="25"
+                                         Height="25">
+                                    <Canvas Width="24"
+                                            Height="24">
+                                        <Path Data="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                                              Fill="White" />
+                                    </Canvas>
+                                </Viewbox>
+                            </Button>
+                        </Grid>
+                    </Grid>
+
+                </Grid>
+            </materialDesign:ColorZone>
+        </Grid>
+        <Grid Grid.Row="1" Background="#FF299FF7">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="6*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" >
+
+                <Border x:Name="myh" Width="80" Height="80" CornerRadius="80" BorderBrush="White" BorderThickness="3" HorizontalAlignment="Center">
+                    <Border.Background>
+                        <ImageBrush ImageSource="https://c-ssl.duitang.com/uploads/item/202004/12/20200412144215_sdhzl.jpg"/>
+                    </Border.Background>
+                </Border>
+                <Button x:Name="myhead" Width="80" Height="80" Background="Transparent" BorderThickness="0" HorizontalAlignment="Center" Click="Head_Click">
+                </Button>
+            </Grid>
+            <Grid Grid.Column="1" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="9*"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock x:Name="Myname" Text="Brown" Foreground="White" FontSize="28" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBox x:Name="gexingqianming" Text="编辑个性签名" Foreground="White" BorderBrush="Transparent" FontSize="15" VerticalAlignment="Top" TextChanged="TextBox_TextChanged_1"/>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2" Background="Gray" Opacity="0.6">
+            <TextBox x:Name="Searchbox" Background="Transparent" BorderBrush="Transparent"
+                     Text="  搜索 : 联系人、讨论组、群、企业" FontSize="15" GotFocus="Searchbox_GotFocus" LostFocus="Searchbox_LostFocus"
+                     VerticalContentAlignment="Center" Grid.ColumnSpan="2" Margin="0,0,0,-3.6"  TextChanged="Searchbox_TextChanged">
+                <TextBox.ToolTip>
+                    <ToolTip>
+                        <StackPanel>
+                            <TextBlock>输入账号/昵称、拼音、Email查找联系</TextBlock>
+                            <TextBlock>人，还可以通过完整的QQ号码查找陌生</TextBlock>
+                            <TextBlock>人</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </TextBox.ToolTip>
+            </TextBox>
+        </Grid>
+        <Grid Grid.Row="3" Background="#FF299FF7">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="0">
+                <materialDesign:PackIcon Kind="History" Foreground="White"/>
+            </Button>
+            <Button Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="1" Click="Button_Click">
+                <materialDesign:PackIcon Kind="People" Foreground="White"/>
+            </Button>
+            <Button Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="2" Click="Button_Click_1">
+                <materialDesign:PackIcon Kind="Contacts" Foreground="White"/>
+            </Button>
+            <Button Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="3">
+                <materialDesign:PackIcon Kind="Archive" Foreground="White"/>
+            </Button>
+
+        </Grid>
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="62*" />
+
+            </Grid.ColumnDefinitions>
+            <Grid Background="#FAFAFA"
+                Grid.Column="0">
+                <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                        ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                        Cursor="Hand"
+                        Name="FriendList"
+                        ItemsSource="{Binding PresentedFriends_2}">
+
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="SelectionChanged">
+                            <i:InvokeCommandAction Command="{Binding MouseRightButtonDownCommand}"
+                                                CommandParameter="{Binding ElementName=FriendList}" />
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal"
+                                    Height="50"
+                                    >
+                                <Ellipse Cursor="Hand"
+                                        Width="50"
+                                        Height="50">
+                                    <Ellipse.Fill>
+                                        <ImageBrush  ImageSource="{Binding Head}" />
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <StackPanel Orientation="Vertical"
+                                        VerticalAlignment="Center"
+                                        Margin="5 0">
+                                    <TextBlock FontSize="15"
+                                            Foreground="Black"
+                                            Text="{Binding Nickname}" />
+                                    <TextBlock Margin="0 2 0 0"
+                                            FontSize="12"
+                                            Text="{Binding LastMessage}" />
+                                </StackPanel>
+                                <!--<Viewbox Width="15"
+                                    Height="15"
+                                    Margin="0 8 0 0"
+                                    VerticalAlignment="Top">
+                            <Canvas Width="24"
+                                    Height="24">
+                                <Path Data="M12,21L15.6,16.2C14.6,15.45 13.35,15 12,15C10.65,15 9.4,15.45 8.4,16.2L12,21M12,3C7.95,3 4.21,4.34 1.2,6.6L3,9C5.5,7.12 8.62,6 12,6C15.38,6 18.5,7.12 21,9L22.8,6.6C19.79,4.34 16.05,3 12,3M12,9C9.3,9 6.81,9.89 4.8,11.4L6.6,13.8C8.1,12.67 9.97,12 12,12C14.03,12 15.9,12.67 17.4,13.8L19.2,11.4C17.19,9.89 14.7,9 12,9Z"
+                                        Fill="#959595" />
+                            </Canvas>
+                        </Viewbox>-->
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+
+
+                </ListView>
+                <materialDesign:PopupBox Style="{StaticResource MaterialDesignMultiFloatingActionPopupBox}"
+                                        PlacementMode="TopAndAlignCentres"
+                                        ToolTipService.Placement="Left"
+                                        ToolTip="Add friends"
+                                        HorizontalAlignment="Right"
+                                        VerticalAlignment="Bottom"
+                                        Margin="10 20">
+
+                </materialDesign:PopupBox>
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>

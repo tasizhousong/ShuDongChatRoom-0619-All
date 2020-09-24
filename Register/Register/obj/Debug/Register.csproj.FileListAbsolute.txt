@@ -1,0 +1,499 @@
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Images\github.png
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Images\head1.jpg
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Images\head2.jpg
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Images\head3.jpg
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Images\head4.jpg
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Images\head5.jpg
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Images\head6.jpg
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Images\login.gif
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Register.exe.config
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Register.exe
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\Register.pdb
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\MaterialDesignColors.dll
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\MaterialDesignColors.pdb
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Kelly\C#\大作业\Register\Login\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register.csprojAssemblyReference.cache
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\MainWindow.g.cs
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\App.g.cs
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register_Content.g.cs
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register_MarkupCompile.cache
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register_MarkupCompile.lref
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\App.baml
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\MainWindow.baml
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register.g.resources
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register.Properties.Resources.resources
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register.csproj.GenerateResource.cache
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register.csproj.CopyComplete
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register.exe
+D:\Kelly\C#\大作业\Register\Login\obj\Debug\Register.pdb
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Images\github.png
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Images\head1.jpg
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Images\head2.jpg
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Images\head3.jpg
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Images\head4.jpg
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Images\head5.jpg
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Images\head6.jpg
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Images\login.gif
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Register.exe.config
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Register.exe
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\Register.pdb
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\MaterialDesignColors.dll
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\MaterialDesignColors.pdb
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Kelly\C#\大作业\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register.csprojAssemblyReference.cache
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\MainWindow.g.cs
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\App.g.cs
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register_Content.g.cs
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register_MarkupCompile.cache
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register_MarkupCompile.lref
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\App.baml
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\MainWindow.baml
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register.g.resources
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register.Properties.Resources.resources
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register.csproj.CopyComplete
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register.exe
+D:\Kelly\C#\大作业\Register\Register\obj\Debug\Register.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Images\github.png
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Images\head1.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Images\head2.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Images\head3.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Images\head4.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Images\head5.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Images\head6.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Images\login.gif
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Register.exe.config
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Register.exe
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Register.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\CommonServiceLocator.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\MaterialDesignColors.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Prism.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Prism.Wpf.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\System.ValueTuple.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\MaterialDesignColors.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Prism.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Prism.xml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Prism.Wpf.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\Prism.Wpf.xml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\bin\Debug\System.ValueTuple.xml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register.csprojAssemblyReference.cache
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\MainWindow.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\App.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register_Content.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register_MarkupCompile.cache
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register_MarkupCompile.lref
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\App.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\MainWindow.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register.g.resources
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register.Properties.Resources.resources
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register.csproj.CopyComplete
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register.exe
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Register.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Friendlist.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Friendlist.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Chat.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\UserControlMessageReceived.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\UserControlMessageSent.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\Chat.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\UserControlMessageReceived.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\Register\Register\obj\Debug\UserControlMessageSent.baml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\github.png
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head1.jpg
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head2.jpg
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head3.jpg
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head4.jpg
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head5.jpg
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head6.jpg
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\login.gif
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Register.exe.config
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Register.exe
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Register.pdb
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\CommonServiceLocator.dll
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignColors.dll
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.dll
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.Wpf.dll
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\System.ValueTuple.dll
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\System.Windows.Interactivity.dll
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignColors.pdb
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.pdb
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.xml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.Wpf.pdb
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.Wpf.xml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\bin\Debug\System.ValueTuple.xml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.csprojAssemblyReference.cache
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Chat.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Friendlist.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\MainWindow.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlMessageReceived.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlMessageSent.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\App.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_Content.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_MarkupCompile.cache
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_MarkupCompile.lref
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\App.baml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Chat.baml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Friendlist.baml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\MainWindow.baml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlMessageReceived.baml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlMessageSent.baml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_.baml
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.g.resources
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.Properties.Resources.resources
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.csproj.CopyComplete
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.exe
+E:\study\软件构造基础\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\github.png
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head1.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head2.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head3.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head4.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head5.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\head6.jpg
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Images\login.gif
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Register.exe.config
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Register.exe
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Register.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\CommonServiceLocator.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignColors.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.Wpf.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\System.ValueTuple.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignColors.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.xml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.Wpf.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\Prism.Wpf.xml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\bin\Debug\System.ValueTuple.xml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.csprojAssemblyReference.cache
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Chat.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Friendlist.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\MainWindow.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlMessageReceived.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlMessageSent.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\App.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_Content.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_MarkupCompile.cache
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_MarkupCompile.lref
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\App.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Chat.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Friendlist.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\MainWindow.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register_.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlMessageReceived.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlMessageSent.baml
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.g.resources
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.Properties.Resources.resources
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.csproj.CopyComplete
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.exe
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\Register.pdb
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlGroupMessageReceived.g.cs
+D:\Users\Documents\Tencent Files\1365210420\FileRecv\shudong0609\ShuDongChatRoom-0607\Register\Register\obj\Debug\UserControlGroupMessageReceived.baml
+E:\ShuDong\Register\Register\bin\Debug\Images\github.png
+E:\ShuDong\Register\Register\bin\Debug\Images\head1.jpg
+E:\ShuDong\Register\Register\bin\Debug\Images\head2.jpg
+E:\ShuDong\Register\Register\bin\Debug\Images\head3.jpg
+E:\ShuDong\Register\Register\bin\Debug\Images\head4.jpg
+E:\ShuDong\Register\Register\bin\Debug\Images\head5.jpg
+E:\ShuDong\Register\Register\bin\Debug\Images\head6.jpg
+E:\ShuDong\Register\Register\bin\Debug\Images\login.gif
+E:\ShuDong\Register\Register\bin\Debug\Register.exe.config
+E:\ShuDong\Register\Register\bin\Debug\Register.exe
+E:\ShuDong\Register\Register\bin\Debug\Register.pdb
+E:\ShuDong\Register\Register\bin\Debug\CommonServiceLocator.dll
+E:\ShuDong\Register\Register\bin\Debug\MaterialDesignColors.dll
+E:\ShuDong\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ShuDong\Register\Register\bin\Debug\Prism.dll
+E:\ShuDong\Register\Register\bin\Debug\Prism.Wpf.dll
+E:\ShuDong\Register\Register\bin\Debug\System.ValueTuple.dll
+E:\ShuDong\Register\Register\bin\Debug\System.Windows.Interactivity.dll
+E:\ShuDong\Register\Register\bin\Debug\MaterialDesignColors.pdb
+E:\ShuDong\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ShuDong\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ShuDong\Register\Register\bin\Debug\Prism.pdb
+E:\ShuDong\Register\Register\bin\Debug\Prism.xml
+E:\ShuDong\Register\Register\bin\Debug\Prism.Wpf.pdb
+E:\ShuDong\Register\Register\bin\Debug\Prism.Wpf.xml
+E:\ShuDong\Register\Register\bin\Debug\System.ValueTuple.xml
+E:\ShuDong\Register\Register\obj\Debug\Register.csprojAssemblyReference.cache
+E:\ShuDong\Register\Register\obj\Debug\Chat.g.cs
+E:\ShuDong\Register\Register\obj\Debug\Friendlist.g.cs
+E:\ShuDong\Register\Register\obj\Debug\MainWindow.g.cs
+E:\ShuDong\Register\Register\obj\Debug\Register_.g.cs
+E:\ShuDong\Register\Register\obj\Debug\UserControlMessageReceived.g.cs
+E:\ShuDong\Register\Register\obj\Debug\UserControlMessageSent.g.cs
+E:\ShuDong\Register\Register\obj\Debug\App.g.cs
+E:\ShuDong\Register\Register\obj\Debug\Register_Content.g.cs
+E:\ShuDong\Register\Register\obj\Debug\Register_MarkupCompile.cache
+E:\ShuDong\Register\Register\obj\Debug\Register_MarkupCompile.lref
+E:\ShuDong\Register\Register\obj\Debug\App.baml
+E:\ShuDong\Register\Register\obj\Debug\Chat.baml
+E:\ShuDong\Register\Register\obj\Debug\Friendlist.baml
+E:\ShuDong\Register\Register\obj\Debug\MainWindow.baml
+E:\ShuDong\Register\Register\obj\Debug\Register_.baml
+E:\ShuDong\Register\Register\obj\Debug\UserControlMessageReceived.baml
+E:\ShuDong\Register\Register\obj\Debug\UserControlMessageSent.baml
+E:\ShuDong\Register\Register\obj\Debug\Register.g.resources
+E:\ShuDong\Register\Register\obj\Debug\Register.Properties.Resources.resources
+E:\ShuDong\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+E:\ShuDong\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+E:\ShuDong\Register\Register\obj\Debug\Register.csproj.CopyComplete
+E:\ShuDong\Register\Register\obj\Debug\Register.exe
+E:\ShuDong\Register\Register\obj\Debug\Register.pdb
+E:\ShuDong\Register\Register\obj\Debug\UserControlEmojiWindow.g.cs
+E:\ShuDong\Register\Register\obj\Debug\UserControlEmojiWindow.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Images\github.png
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Images\head1.jpg
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Images\head2.jpg
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Images\head3.jpg
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Images\head4.jpg
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Images\head5.jpg
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Images\head6.jpg
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Images\login.gif
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Register.exe.config
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Register.exe
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Register.pdb
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\CommonServiceLocator.dll
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\MaterialDesignColors.dll
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Prism.dll
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Prism.Wpf.dll
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\System.ValueTuple.dll
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\System.Windows.Interactivity.dll
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\MaterialDesignColors.pdb
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Prism.pdb
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Prism.xml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Prism.Wpf.pdb
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\Prism.Wpf.xml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\bin\Debug\System.ValueTuple.xml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register.csprojAssemblyReference.cache
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Chat.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Friendlist.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\MainWindow.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register_.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\UserControlEmojiWindow.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\UserControlMessageReceived.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\UserControlMessageSent.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\App.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register_Content.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register_MarkupCompile.cache
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register_MarkupCompile.lref
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\App.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Chat.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Friendlist.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\MainWindow.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register_.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\UserControlEmojiWindow.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\UserControlMessageReceived.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\UserControlMessageSent.baml
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register.g.resources
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register.Properties.Resources.resources
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register.csproj.CopyComplete
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register.exe
+E:\ShuDong\ShuDongChatRoom-0617-lgh\Register\Register\obj\Debug\Register.pdb
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Images\github.png
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Images\head1.jpg
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Images\head2.jpg
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Images\head3.jpg
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Images\head4.jpg
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Images\head5.jpg
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Images\head6.jpg
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Images\login.gif
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Register.exe.config
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Register.exe
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Register.pdb
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\CommonServiceLocator.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\MaterialDesignColors.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Prism.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Prism.Wpf.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.ValueTuple.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Windows.Interactivity.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\MaterialDesignColors.pdb
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Prism.pdb
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Prism.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Prism.Wpf.pdb
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Prism.Wpf.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.ValueTuple.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.csprojAssemblyReference.cache
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Chat.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Friendlist.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\MainWindow.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register_.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\UserControlEmojiWindow.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\UserControlMessageReceived.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\UserControlMessageSent.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\App.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register_Content.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register_MarkupCompile.cache
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register_MarkupCompile.lref
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\App.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Chat.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Friendlist.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\MainWindow.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register_.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\UserControlEmojiWindow.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\UserControlMessageReceived.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\UserControlMessageSent.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.g.resources
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.Properties.Resources.resources
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.csproj.CopyComplete
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.exe
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.pdb
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Register.exe.config
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Card.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\CardEdit.g.cs
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\netstandard.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.AppContext.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Collections.Concurrent.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Collections.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Collections.NonGeneric.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Collections.Specialized.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.ComponentModel.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.ComponentModel.Primitives.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Console.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Data.Common.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.Contracts.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.Debug.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.Process.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.Tools.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Drawing.Primitives.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Dynamic.Runtime.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Globalization.Calendars.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Globalization.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Globalization.Extensions.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.Compression.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.FileSystem.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.IsolatedStorage.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.Pipes.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Linq.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Linq.Expressions.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Linq.Parallel.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Linq.Queryable.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.Http.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.NameResolution.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.NetworkInformation.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.Ping.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.Primitives.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.Requests.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.Security.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.Sockets.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.WebSockets.Client.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Net.WebSockets.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.ObjectModel.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Reflection.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Reflection.Extensions.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Reflection.Primitives.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Resources.Reader.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Resources.ResourceManager.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Resources.Writer.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.Extensions.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.Handles.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.InteropServices.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.Numerics.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Security.Claims.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Security.Principal.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Security.SecureString.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Text.Encoding.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Text.RegularExpressions.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Threading.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Threading.Overlapped.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Threading.Tasks.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Threading.Thread.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Threading.ThreadPool.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Threading.Timer.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Xml.ReaderWriter.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Xml.XDocument.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Xml.XmlDocument.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Xml.XmlSerializer.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Xml.XPath.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\BouncyCastle.Crypto.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Google.Protobuf.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\K4os.Compression.LZ4.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\K4os.Hash.xxHash.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\MySql.Data.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Renci.SshNet.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Buffers.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Memory.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Numerics.Vectors.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Ubiety.Dns.Core.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Zstandard.Net.dll
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Google.Protobuf.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\K4os.Compression.LZ4.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\K4os.Hash.xxHash.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\MySql.Data.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\Renci.SshNet.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Buffers.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Memory.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Numerics.Vectors.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\Card.baml
+E:\ShuDong\ShuDongChatRoom-0619-lgh\Register\Register\obj\Debug\CardEdit.baml

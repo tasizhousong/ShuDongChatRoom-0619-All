@@ -1,0 +1,6 @@
+nickname
+head 可url
+个性签名
+地址
+电话
+邮件

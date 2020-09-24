@@ -1,0 +1,286 @@
+﻿<Window Name="chat"  x:Class="Register.Chat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:local="clr-namespace:Register"
+        mc:Ignorable="d"
+        Height="600" Width="1080" ResizeMode="NoResize" MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        WindowStartupLocation="CenterScreen" WindowStyle="None" FontFamily="Dosis">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="270"/>
+            <ColumnDefinition Name="talkArea" Width="540"/>
+            <ColumnDefinition Width="270"/>
+        </Grid.ColumnDefinitions>
+
+        <!--#region 左侧好友列表-->
+        <!--#FFB5CEE0"-->
+        <!--#FF1C93EC-->
+        <Grid Grid.Column="0" Background="{Binding BackgroundColorBrush}" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Horizontal" Background="White">
+                <Border Name="border_anonymityHead" Width="80" Height="80" CornerRadius="80" Background="#FF80CB">
+                    <Border Width="80" Height="80" CornerRadius="80" BorderBrush="White" BorderThickness="7" >
+                        <Border.Background>
+                            <ImageBrush x:Name="imageBrush_upperLeftHead" ImageSource="https://c-ssl.duitang.com/uploads/item/202004/12/20200412144215_sdhzl.jpg"/>
+                        </Border.Background>
+                    </Border>
+                </Border>
+                <TextBlock x:Name="textBlock_nickName" Text="  Brown" FontSize="28" VerticalAlignment="Center"/>
+                <Button Style="{StaticResource MaterialDesignFlatButton}" Foreground="#FFB5CEE0" Margin="0,24"> <!--Click="Button_Click_3"-->
+                    <materialDesign:PackIcon Kind="PlusCircle" Width="24" Height="24" Foreground="{Binding ButtonBackgroundColorBrush}"/>
+                </Button>
+            </StackPanel>
+            <TextBox Grid.Row="1" Name ="textBox2" TextChanged="TextBox2_TextChanged" Margin="20 10" Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="搜索" Foreground="White" CaretBrush="{DynamicResource {x:Static SystemColors.ControlLightLightBrushKey}}"/>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="0">
+                    <materialDesign:PackIcon Kind="History" Foreground="White"/>
+                </Button>
+                <Button Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="1">
+                    <materialDesign:PackIcon Kind="People" Foreground="White"/>
+                </Button>
+                <Button Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="2">
+                    <materialDesign:PackIcon Kind="Contacts" Foreground="White"/>
+                </Button>
+                <Button Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="3">
+                    <materialDesign:PackIcon Kind="Archive" Foreground="White"/>
+                </Button>
+            </Grid>
+
+            <ListView Grid.Row="3" ItemsSource = "{Binding PresentedFriends}" Name="FriendList" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Disabled"  HorizontalAlignment="Stretch">
+                <!--<ListView.ItemTemplate HorizontalAlignment="Stretch">-->
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="SelectionChanged">
+                        <i:InvokeCommandAction Command="{Binding SelectItemChangedCommand}"
+                                                CommandParameter="{Binding ElementName=FriendList}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+                <!--<Grid Background="White" Height="13"></Grid>-->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin= "0" >
+                            <!--Background="{Binding BackGround}"-->
+                            <Grid  HorizontalAlignment="Center" Margin="5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="50"/>
+                                    <ColumnDefinition Width="150"/>
+                                    <ColumnDefinition Width="50*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Border Width="40" Height="40" CornerRadius="25" BorderBrush="White" BorderThickness="0.6">
+                                    <Border.Background>
+                                        <!--<ImageBrush ImageSource="https://c-ssl.duitang.com/uploads/item/202004/12/20200412144214_tjqmk.jpg"/>-->
+                                        <ImageBrush ImageSource="{Binding Head}" />
+                                    </Border.Background>
+                                </Border>
+                                <Border Width="10" Height="10" VerticalAlignment="Bottom" Margin="5" HorizontalAlignment="Right" CornerRadius="15" Background="LightGreen"/>
+
+                                <StackPanel Grid.Column="1">
+                                    <TextBlock Text="{Binding Nickname}" Margin="10 0" Foreground="{Binding FontColorBrush}" />
+                                    <TextBlock Text="{Binding LastMessage}" Foreground="{Binding FontColorBrush}" Margin="10 0" TextTrimming="CharacterEllipsis" Opacity="0.6" FontSize="11"/>
+                                </StackPanel>
+
+                                <Border Grid.Column="2" Visibility="{Binding SpotVisibility}" Width="20" Height="20" CornerRadius="15" Background="HotPink" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">
+                                    <TextBlock FontSize="11"  Text="{Binding NumNewMessages}" Foreground="#FF076AB4" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+        <!--#endregion 左侧好友列表-->
+
+        <!--#region 中间会话区-->
+        <Grid Name="grid_talk" Grid.Column="1" Background="#FFE4E4E4">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Horizontal" Height="80" VerticalAlignment="Top" Background="#FFE4E4E4">
+                <StackPanel.Effect>
+                    <DropShadowEffect BlurRadius="3" ShadowDepth="1"/>
+                </StackPanel.Effect>
+                <Border Width="10" Height="10" HorizontalAlignment="Right" Margin="15" Background="#FF076AB4" CornerRadius="15" VerticalAlignment="Center" BorderBrush="Black"/>
+                <TextBlock Text="{Binding Nickname}" FontSize="28" VerticalAlignment="Center"/>
+                <Button Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Margin="15 15 10 15" Background="{Binding ButtonBackgroundColorBrush}" BorderBrush="{Binding ButtonBackgroundColorBrush}" Click="Button_Click_1" >
+                    <materialDesign:PackIcon Kind="Call"/>
+                </Button>
+                <Button Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Margin="15 15 10 15" Background="{Binding ButtonBackgroundColorBrush}" BorderBrush="{Binding ButtonBackgroundColorBrush}" >
+                    <!--#FF1C93EC-->
+                    <materialDesign:PackIcon Kind="VideoCall" />
+                </Button>
+                <Button Name="button_anonymity" Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Margin="15 15 10 15" Background="{Binding ButtonBackgroundColorBrush}" BorderBrush="{Binding ButtonBackgroundColorBrush}" Click="Button_Click_Anonymity">
+                    <materialDesign:PackIcon Kind="Anonymous" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="40"  />
+                </Button>
+            </StackPanel>
+            <Grid Name="grid_talkStackPanels" Grid.Row="1" VerticalAlignment="Bottom">
+
+                <ScrollViewer Name="All" Visibility="Hidden" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel  Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                    </StackPanel>
+                </ScrollViewer>
+
+                <ScrollViewer Name="吴健豪"  Visibility="Hidden" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel   Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                    </StackPanel>
+                </ScrollViewer>
+
+                <ScrollViewer Name="吴茜"  Visibility="Hidden" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel   Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                    </StackPanel>
+                </ScrollViewer>
+
+                <ScrollViewer Name="李光华"  Visibility="Hidden" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel   Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                    </StackPanel>
+                </ScrollViewer>
+
+                <ScrollViewer Name="于永瑞"  Visibility="Hidden" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel   Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                    </StackPanel>
+                </ScrollViewer>
+
+                <ScrollViewer Name="潘童欣"  Visibility="Hidden" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel   Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                    </StackPanel>
+                </ScrollViewer>
+
+                <ScrollViewer Name="李芊颖"  Visibility="Hidden" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel   Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                    </StackPanel>
+                </ScrollViewer>
+
+                <ScrollViewer Name="albery" Visibility="Visible" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel  Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+                        <!--<local:UserControlMessageReceived Margin="0,0,406,0"/>
+                        <local:UserControlMessageSent x:Name ="sentMessageUserControl" Margin="394,0,0,0" />-->
+                    </StackPanel>
+                </ScrollViewer>
+
+                <ScrollViewer Name="wangwu" Visibility="Hidden" PanningMode="Both" CanContentScroll="True" HorizontalAlignment="Stretch">
+                    <StackPanel  Margin="0 100" VerticalAlignment="Bottom" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+
+                    </StackPanel>
+                </ScrollViewer>
+
+            </Grid>
+            <ContentControl x:Name="Page_Change" Grid.Row="1" VerticalAlignment="Bottom" HorizontalAlignment="Right" Height="176" Width="184" Margin="0,0,10,62.333"/>
+            <Border Name="border_textEditor" Grid.Row="1" Background="#9e9e9e" VerticalAlignment="Bottom">
+                <!--#FFB5CEE0-->
+                <Grid Margin="0 10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="70"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox Name ="textBox1"  Grid.Column="0" MaxHeight="80" TextWrapping="Wrap" Margin="5" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" CaretBrush="#FF1C93EC"/>
+                    <Button Grid.Column="3" VerticalAlignment="Bottom" Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Background="{Binding ButtonBackgroundColorBrush}" BorderBrush="{Binding ButtonBackgroundColorBrush}"  Click="Button_Click_Send">
+                        <!--BorderBrush="#FF1C93EC"-->
+                        <materialDesign:PackIcon Kind="Send"/>
+                    </Button>
+                    <Button Grid.Column="2"  VerticalAlignment="Bottom" Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Background="{Binding ButtonBackgroundColorBrush}" BorderBrush="{Binding ButtonBackgroundColorBrush}" Click="Button_Click_2" >
+                        <!--BorderBrush="#FF3CA1ED"-->
+                        <materialDesign:PackIcon Kind="Attachment" Foreground="White"/>
+                    </Button>
+                    <Grid Grid.Column="1" VerticalAlignment="Bottom">
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <!--<Popup Grid.Row="0" Name="popUp_emoji" StaysOpen="False" VerticalOffset="-216">
+                            <local:UserControlEmojiWindow x:Name="emojiWindow" HorizontalAlignment="Left"/>
+                        </Popup>-->
+
+                        <Button Grid.Row="1"  MouseEnter="Button_MouseEnter"  Click="Button_Click_Emoji" Style="{StaticResource MaterialDesignFloatingActionMiniButton}" Background="{Binding ButtonBackgroundColorBrush}" BorderBrush="{Binding ButtonBackgroundColorBrush}">
+                            <!--BorderBrush="#FF3CA1ED"-->
+                            <materialDesign:PackIcon Kind="Smiley" Foreground="White"/>
+                            <!--Foreground="#FF1C93EC"-->
+                        </Button>
+
+                    </Grid>
+                </Grid>
+            </Border>
+        </Grid>
+        <!--#endregion 中间会话区-->
+
+        <!--#region 右侧参与会话的联系人信息-->
+        <StackPanel Grid.Column="2" Background="White">
+            <Button HorizontalAlignment="Right" Margin="10" Style="{StaticResource MaterialDesignFlatButton}" Click="Close_Click">
+                <materialDesign:PackIcon Kind="Close" Foreground="#FF1C93EC"/>
+            </Button>
+
+            <Border Width="150" Height="150" CornerRadius="80" BorderThickness="1" BorderBrush="Gray">
+                <Border.Background>
+                    <ImageBrush ImageSource="{Binding Head}"/>
+                </Border.Background>
+            </Border>
+
+            <TextBlock Text="{Binding Nickname}" HorizontalAlignment="Center" Margin="0 10 0 0" Foreground="Gray" FontSize="18" FontWeight="Bold"/>
+            <TextBlock Text="{Binding PersonalSignature}" FontSize="13" Foreground="Gray" HorizontalAlignment="Center" Opacity="0.8"/>
+            <TextBlock Text="每天codingcodingeatingsleeping" FontSize="8" Foreground="Gray" HorizontalAlignment="Center" Opacity="0.8"/>
+
+            <StackPanel Margin="20">
+                <StackPanel Orientation="Horizontal" Margin="0 3">
+                    <materialDesign:PackIcon Kind="Location" Foreground="Gray"/>
+                    <TextBlock x:Name="addressshow" Text="{Binding Address}" Margin="10 0" Foreground="Gray"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0 3">
+                    <materialDesign:PackIcon Kind="Cellphone" Foreground="Gray"/>
+                    <TextBlock x:Name="phonechat" Text="{Binding Phone}" Margin="10 0" Foreground="Gray"/>
+                    <!--186 5200 0000-->
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0 3">
+                    <materialDesign:PackIcon Kind="Email" Foreground="Gray"/>
+                    <TextBlock x:Name="emailchat" Text="{Binding Email}" Margin="10 0" Foreground="Gray"/>
+                    <!--Brown@qq.com-->
+                </StackPanel>
+            </StackPanel>
+
+            <TextBlock Text="动态" Margin="20 0" Foreground="Gray"/>
+            <StackPanel Orientation="Horizontal" Margin="20 0">
+                <Border Width="50" Height="50" Margin="5">
+                    <Border.Background>
+                        <ImageBrush ImageSource="https://c-ssl.duitang.com/uploads/item/202005/11/20200511094345_fbfvo.jpg
+"/>
+                    </Border.Background>
+                </Border>
+                <Border Width="50" Height="50" Margin="5">
+                    <Border.Background>
+                        <ImageBrush ImageSource="https://c-ssl.duitang.com/uploads/item/202005/11/20200511094049_sowqu.jpg
+"/>
+                    </Border.Background>
+                </Border>
+                <Border Width="50" Height="50" Margin="5">
+                    <Border.Background>
+                        <ImageBrush ImageSource="https://c-ssl.duitang.com/uploads/item/202004/09/20200409212052_khdqw.jpg"/>
+                    </Border.Background>
+                </Border>
+            </StackPanel>
+        </StackPanel>
+        <!--#endregion 右侧参与会话的联系人信息-->
+    </Grid>
+</Window>

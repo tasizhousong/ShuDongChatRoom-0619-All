@@ -1,0 +1,253 @@
+﻿<UserControl x:Class="Register.UserControlEmojiWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Register"
+        mc:Ignorable="d"
+        Height="176" Width="184"
+        >
+    <Grid Background="#FFE4E4E4">
+        <TabControl x:Name="TB" IsSynchronizedWithCurrentItem="True" Height="Auto" Background="White">
+            <TabItem Header="默认分组">
+                <WrapPanel x:Name="emoji">
+
+                    <Grid ShowGridLines="False">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="26"/>
+                            <ColumnDefinition Width="26"/>
+                            <ColumnDefinition Width="26"/>
+                            <ColumnDefinition Width="26"/>
+                            <ColumnDefinition Width="26"/>
+                            <ColumnDefinition Width="26"/>
+                            <ColumnDefinition Width="26"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="J00" Grid.Row="0"  Grid.Column="0" HorizontalAlignment="Right"  Width="26" Click="clauseElementClicked" Height="Auto">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\1.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J01" Grid.Row="0"  Grid.Column="1" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\2.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J02" Grid.Row="0"  Grid.Column="2" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\3.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J03" Grid.Row="0"  Grid.Column="3" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\4.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J04" Grid.Row="0"  Grid.Column="4" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\5.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J05" Grid.Row="0"  Grid.Column="5" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\6.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J06" Grid.Row="0"  Grid.Column="6" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\7.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J10" Grid.Row="1"  Grid.Column="0" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\8.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J11" Grid.Row="1"  Grid.Column="1" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\9.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J12" Grid.Row="1"  Grid.Column="2" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\10.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J13" Grid.Row="1"  Grid.Column="3" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\11.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J14" Grid.Row="1"  Grid.Column="4" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\12.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J15" Grid.Row="1"  Grid.Column="5" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\13.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J16" Grid.Row="1"  Grid.Column="6" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\14.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J20" Grid.Row="2"  Grid.Column="0" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\15.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J21" Grid.Row="2"  Grid.Column="1" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\16.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J22" Grid.Row="2"  Grid.Column="2" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\17.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J23" Grid.Row="2"  Grid.Column="3" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\18.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J24" Grid.Row="2"  Grid.Column="4" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\19.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J25" Grid.Row="2"  Grid.Column="5" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\20.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J26" Grid.Row="2"  Grid.Column="6" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\21.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J30" Grid.Row="3"  Grid.Column="0" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\22.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J31" Grid.Row="3"  Grid.Column="1" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\23.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J32" Grid.Row="3"  Grid.Column="2" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\24.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J33" Grid.Row="3"  Grid.Column="3" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\25.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J34" Grid.Row="3"  Grid.Column="4" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\26.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J35" Grid.Row="3"  Grid.Column="5" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\27.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J36" Grid.Row="3"  Grid.Column="6" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\28.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J40" Grid.Row="4"  Grid.Column="0" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\29.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J41" Grid.Row="4"  Grid.Column="1" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\30.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J42" Grid.Row="4"  Grid.Column="2" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\31.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J43" Grid.Row="4"  Grid.Column="3" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\32.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J44" Grid.Row="4"  Grid.Column="4" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\33.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J45" Grid.Row="4"  Grid.Column="5" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\34.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J46" Grid.Row="4"  Grid.Column="6" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\35.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J50" Grid.Row="5"  Grid.Column="0" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\36.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J51" Grid.Row="5"  Grid.Column="1" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\37.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J52" Grid.Row="5"  Grid.Column="2" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\38.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J53" Grid.Row="5"  Grid.Column="3" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\39.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J54" Grid.Row="5"  Grid.Column="4" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\40.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J55" Grid.Row="5"  Grid.Column="5" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\41.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button x:Name="J56" Grid.Row="5"  Grid.Column="6" Click="clauseElementClicked">
+                            <Button.Background>
+                                <ImageBrush ImageSource="images\42.png" Stretch="Uniform"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                    </Grid>
+
+                </WrapPanel>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+
+</UserControl>
